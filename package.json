@@ -1,5 +1,5 @@
 {
-  "name": "plantuml-encoder-decoder",
+  "name": "@dyatko/plantuml-encoder-decoder",
   "version": "1.2.5",
   "description": "PlantUML encoder for browsers and Node.js",
   "author": "Markus Hedvall <mackanhedvall@gmail.com>",
